@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    text-align: center;
+}
+
+.cover {
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    display: block;
+    border-collapse: separate;
+}
+
+.tr {
+    display: block;
+    padding: 10px;
+    text-align: left;
+}
